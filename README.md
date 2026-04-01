@@ -98,4 +98,4 @@ Open your browser at `http://127.0.0.1:5000`
 
 **Abdulkadir Yılmaz**  
 Backend Developer in training | .NET & Python  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://linkedin.com/in/abdulkadiryilmaz) · [GitHub](https://github.com/abdulkadir-yz)
